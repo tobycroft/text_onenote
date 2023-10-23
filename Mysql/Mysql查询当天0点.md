@@ -1,0 +1,6 @@
+查询当天0点，格式为YYYY-MM-DD HH:mm:ss
+
+SELECT DATE_FORMAT(CURDATE(),'%Y-%m-%d %H:%i:%s');-- 2015-09-28 00:00:00
+
+
+SELECT CURDATE();-- 2015-09-28
