@@ -1,0 +1,3 @@
+Show stauts 不正常，更新不及时
+loose_information_schema_stats_expiry 设置为0
+loose_information_schema_stats_expiry=0
